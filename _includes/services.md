@@ -3,14 +3,16 @@
 <h4 style="margin:0 10px 0;">PhD</h4>
 
 <ul style="margin:0 0 5px;">
+ <li><autocolor>Five-good graduate students of Zhejiang University，2023 </autocolor></li>
+ <li><autocolor>Excellent bachelor's thesis of Beijing (Top 1%), 2022 </autocolor></li>
  <!-- <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>注释此处 -->
-<!--  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>注释此处 -->
-<!--  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>注释此处 -->
+ <!--  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>注释此处 -->
+ <!--  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>注释此处 -->
 </ul>
 
 <h4 style="margin:0 10px 0;">Undergraduate</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 20px;">       
     <li><autocolor>Excellent bachelor's thesis of Beijing (Top 1%), 2022 </autocolor></li>
     <li><autocolor>Outstanding graduates in Beijing (Top 2%), 2022 </autocolor></li>
     <li><autocolor>Outstanding graduates of Beijing University of Posts and Telecommunications (Top 3%), 2022 </autocolor></li>
