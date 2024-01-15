@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-- **2022-now:**  Direct-PhD. candidate, Zhejiang University (advisors: Prof. [Xiao Lin](https://person.zju.edu.cn/xiaolinGroup#0) and Prof. [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=zh-CN)
+- **2022-now:**  Direct-PhD. candidate, Zhejiang University (advisors: Prof. [Xiao Lin](https://scholar.google.co.uk/citations?user=DmHN_F8AAAAJ&hl=zh-CN) and Prof. [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=zh-CN))
 - **2018-2022:** Bachelor, Beijing University of Posts and Telecommunications (Outstanding graduates, Beijing, 2022)
 
 ## Research Interests
