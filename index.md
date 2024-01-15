@@ -3,16 +3,15 @@ layout: homepage
 ---
 
 ## About Me
-
-I'm a PhD. student supervised by Prof. Xiao Lin & Prof. Hongsheng Chen at Zhejiang University.
+- **2022-now:**  Direct-PhD. candidate, Zhejiang University (advisors: **Prof. Xiao Lin** & **Prof. Hongsheng Chen**)
+- **2018-2022:** Bachelor, Beijing University of Posts and Telecommunications (Outstanding graduates, Beijing, 2022)
 
 ## Research Interests
-
 - **free-electron nanophotonics:** Cherenkov radiation, transition radiation
-- **light-matter interactions：** light-random media interactions
-
+- **electromagnetic wave theory:** light-matter interactions in photonic crystals, metamaterials and random media.
+- **Integrated photonics:** light sources, particle detectors, frequency combs
+  
 ## News
-
 - **[Aug. 2023]** My paper on interfacial Cherenkov radiation is published on PNAS.
 
 
