@@ -6,7 +6,7 @@ main:
     conference: Proceedings of the National Academy of Sciences of the United States of America
     pdf: https://www.pnas.org/doi/10.1073/pnas.2306601120
     code: 
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: ./assets/files/interfacialCR.ris
     image: ./assets/img/interfacialCR.png
     notes: 
 
