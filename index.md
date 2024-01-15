@@ -13,7 +13,7 @@ I'm a PhD. student supervised by Prof. Xiao Lin & Prof. Hongsheng Chen at Zhejia
 
 ## News
 
-- **[Jul. 2023]** My paper on interfacial Cherenkov radiation is published on PNAS.
+- **[Aug. 2023]** My paper on interfacial Cherenkov radiation is published on PNAS.
 
 
 {% include_relative _includes/publications.md %}
