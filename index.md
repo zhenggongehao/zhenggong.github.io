@@ -7,8 +7,8 @@ layout: homepage
 - **2018-2022:** Bachelor, Beijing University of Posts and Telecommunications (Outstanding graduates, Beijing, 2022)
 
 ## Research Interests
-- **free-electron nanophotonics:** Cherenkov radiation, transition radiation
-- **electromagnetic wave theory:** light-matter interactions in photonic crystals, metamaterials and random media.
+- **Free-electron nanophotonics:** Cherenkov radiation, transition radiation
+- **Electromagnetic wave theory:** light-matter interactions in photonic crystals, metamaterials and random media.
 - **Integrated photonics:** light sources, particle detectors, frequency combs
   
 ## News
