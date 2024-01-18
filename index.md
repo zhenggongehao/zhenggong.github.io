@@ -10,7 +10,7 @@ layout: homepage
 ## Research Interests
 - **Free-electron nanophotonics:** Cherenkov radiation, transition radiation
 - **Electromagnetic wave theory:** light-matter interactions in photonic crystals, metamaterials and random media.
-- **Integrated photonics:** light sources, particle detectors, frequency combs
+- **Integrated photonic devices:** light sources, particle detectors, frequency combs
   
 ## News
 - **[Aug. 2023]** My paper on interfacial Cherenkov radiation from ultralow-energy electrons is published on PNAS.
