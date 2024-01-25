@@ -8,4 +8,14 @@ main:
     code: 
     bibtex: ./assets/files/interfacialCR.ris
     image: ./assets/img/interfacialCR.png
-    notes: a direct submission
+    notes: 2023
+
+  - title: Interfacial Cherenkov radiation from Ultralow-energy electrons
+    authors: <strong>Zheng Gong</strong>, Hongxin Zhang*, and Xiao Lin* (*Advisor)
+    conference_short: PNAS
+    conference: <strong>Excellent bachelor's thesis of Beijing (Top 1%)</strong>
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/interfacialCR.png
+    notes: 2022
