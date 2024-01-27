@@ -9,7 +9,7 @@ layout: homepage
 
 ## Research Interests
 - **Free-electron nanophotonics:** Cherenkov radiation, transition radiation
-- **Electromagnetic wave theory:** light-matter interactions in photonic crystals, metamaterials and random media.
+- **Electromagnetic wave theory:** light-matter interactions in photonic (time) crystals, metamaterials and random media.
 - **Integrated photonic devices:** light sources, particle detectors, frequency combs
 - **Deep learning in electromagnetics :** inverse design of metamaterials
   
