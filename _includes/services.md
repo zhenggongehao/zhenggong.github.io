@@ -16,7 +16,9 @@
     <li><autocolor>Excellent bachelor's thesis of Beijing (Top 1% among all graduates of Beijing), 2022 </autocolor></li>
     <li><autocolor>Outstanding graduates in Beijing (Top 3%), 2022 </autocolor></li>
     <li><autocolor>Outstanding graduates of Beijing University of Posts and Telecommunications (Top 3%), 2022 </autocolor></li>
-    <li><autocolor>First-class scholarship of Beijing University of Posts and Telecommunications (Top 3%), 2019, 2020, 2021 </autocolor></li>
+    <li><autocolor>First-class scholarship of Beijing University of Posts and Telecommunications (Top 3%), 2021 </autocolor></li>
+    <li><autocolor>First-class scholarship of Beijing University of Posts and Telecommunications (Top 3%), 2020 </autocolor></li>
+    <li><autocolor>First-class scholarship of Beijing University of Posts and Telecommunications (Top 3%), 2019 </autocolor></li>
 <!--   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li> 注释此处 -->
 <!-- <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li> 注释此处 -->
 </ul>
