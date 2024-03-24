@@ -14,8 +14,8 @@
 
 <ul style="margin:0 0 20px;">       
     <li><autocolor>Excellent bachelor's thesis of Beijing (Top 1% among all graduates of Beijing), 2022 </autocolor></li>
-    <li><autocolor>Outstanding graduates in Beijing (Top 3%), 2022 </autocolor></li>
-    <li><autocolor>Outstanding graduates of Beijing University of Posts and Telecommunications (Top 3%), 2022 </autocolor></li>
+    <li><autocolor>Outstanding undergraduates of Beijing (Top 1%), 2022 </autocolor></li>
+    <li><autocolor>Excellent undergraduates of Beijing University of Posts and Telecommunications (Top 3%), 2022 </autocolor></li>
     <li><autocolor>First-class scholarship of Beijing University of Posts and Telecommunications (Top 3%), 2021 </autocolor></li>
     <li><autocolor>First-class scholarship of Beijing University of Posts and Telecommunications (Top 3%), 2020 </autocolor></li>
     <li><autocolor>First-class scholarship of Beijing University of Posts and Telecommunications (Top 3%), 2019 </autocolor></li>
