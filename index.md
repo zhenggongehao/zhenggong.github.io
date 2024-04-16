@@ -15,7 +15,7 @@ layout: homepage
   
 ## News
 - **[Aug. 2023]** My paper on interfacial Cherenkov radiation from ultralow-energy electrons is published on PNAS.
-- **[Spring, 2023]** I served as a Teaching assistant for the electromagnetic wave theory class for undergraduate students.
+- **[Spring, 2023]** I served as a Teaching assistant for the electromagnetic wave theory class for sophomore students.
 
 {% include_relative _includes/publications.md %}
 
