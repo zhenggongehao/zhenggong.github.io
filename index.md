@@ -15,7 +15,7 @@ layout: homepage
   
 ## News
 - **[Aug., 2023]** My paper on interfacial Cherenkov radiation from ultralow-energy electrons is published on PNAS.
-- **[Spring, 2023]** I served as a Teaching assistant for the electromagnetic wave theory class for sophomore students.
+- **[Spring, 2023]** I served as a Teaching Assistant for the electromagnetic wave theory class for sophomore students.
 - **[Jan., 2022]** I joined _Maxwell Running Group_, a lovely group encouraging running and sports orginized by Prof. Xiao Lin.
 
 {% include_relative _includes/publications.md %}
