@@ -3,7 +3,7 @@ main:
   - title: Directional transition radiation via ultrathin anisotropic metamaterials
     authors: <strong>Zun Wang#</strong>, <strong>Zheng Gong#</strong>, Hongsheng Chen*, and Xiao Lin* (*Corresponding authors, #Contributed Equally)
     conference_short: /
-    conference: <strong>under review</strong>
+    conference: <strong>Under preparation</strong>
     code: 
     bibtex: ./assets/files/interfacialCR.ris
     image: ./assets/img/interfacialCR.png
@@ -12,7 +12,7 @@ main:
   - title: Free-electron resonance transition radiation via Brewster randomness
     authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Zun Wang, Xiangfeng Xi, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin* (*Corresponding authors)
     conference_short: /
-    conference: <strong>under review</strong>
+    conference: <strong>Under review</strong>
     code: 
     bibtex: ./assets/files/interfacialCR.ris
     image: ./assets/img/interfacialCR.png
