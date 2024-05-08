@@ -6,7 +6,6 @@ main:
     conference: <strong>Under preparation</strong>
     pdf: 
     code: 
-    bibtex: 
     bibtex:
     image: ./assets/img/DirectionalTR.png
     notes: 2024
@@ -17,7 +16,6 @@ main:
     conference: <strong>Under review</strong>
     pdf: 
     code: 
-    bibtex: 
     bibtex:
     image: ./assets/img/Brew2.png
     notes: 2024
