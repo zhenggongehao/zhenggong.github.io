@@ -7,8 +7,8 @@ main:
     pdf: 
     code: 
     bibtex: 
-    bibtex: ./assets/files/interfacialCR.ris
-    image: ./assets/img/interfacialCR.png
+    bibtex:
+    image: ./assets/img/DirectionalTR.png
     notes: 2024
 
   - title: Free-electron resonance transition radiation via Brewster randomness
@@ -18,8 +18,8 @@ main:
     pdf: 
     code: 
     bibtex: 
-    bibtex: ./assets/files/interfacialCR.ris
-    image: ./assets/img/interfacialCR.png
+    bibtex:
+    image: ./assets/img/Brew2.png
     notes: 2024
     
   - title: Interfacial Cherenkov radiation from ultralow-energy electrons
