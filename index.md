@@ -17,7 +17,7 @@ layout: homepage
 - **[April, 2024]** I gave an oral talk on [PhotonIcs and Electromagnetics Research Symposium, 2024](https://cd2024.piers.org/).
 - **[Aug., 2023]** My paper on interfacial Cherenkov radiation from ultralow-energy electrons is published on PNAS.
 - **[Spring, 2023]** I served as a Teaching Assistant for the electromagnetic wave theory class for sophomore students.
-- **[Jan., 2022]** I joined _Maxwell Running Group_, a lovely group encouraging running and sports orginized by Prof. Xiao Lin.
+- **[Jan., 2022]** I joined _Maxwell Running Group_ orginized by Prof. Xiao Lin.
 
 {% include_relative _includes/publications.md %}
 
