@@ -4,8 +4,8 @@ layout: homepage
 
 ## Education
 - **2022-now:**  Direct-PhD. candidate, Zhejiang University (advisors: Prof. [Xiao Lin](https://scholar.google.com/citations?user=DmHN_F8AAAAJ&hl=en&oi=ao) and Prof. [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=zh-CN))
-- **2018-2022:** Bachelor, Beijing University of Posts and Telecommunications (Outstanding graduates, Top 1%, Beijing, 2022)
-- **2015-2018:** Jiangxi Linchuan No.1 Middle School
+- **2018-2022:** Undergraduate, Beijing University of Posts and Telecommunications (Outstanding graduates, Top 1%, Beijing, 2022)
+- **2015-2018:** Senior high school student, Jiangxi Linchuan No.1 Middle School
 
 ## Research Interests
 - **Free-electron nanophotonics:** Cherenkov radiation, transition radiation
