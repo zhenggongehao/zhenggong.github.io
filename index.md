@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Education
-- **2022-now:**  Direct-PhD. candidate, Zhejiang University (advisors: Prof. [Xiao Lin](https://scholar.google.com/citations?user=DmHN_F8AAAAJ&hl=en&oi=ao) and Prof. [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=zh-CN))
+- **2022-now:**  Direct-PhD. Student, Zhejiang University (advisors: Prof. [Xiao Lin](https://scholar.google.com/citations?user=DmHN_F8AAAAJ&hl=en&oi=ao) and Prof. [Hongsheng Chen](https://scholar.google.com/citations?user=w1p_Wf0AAAAJ&hl=zh-CN))
 - **2018-2022:** Undergraduate, Beijing University of Posts and Telecommunications (Outstanding graduates, Top 1%, Beijing, 2022)
 - **2015-2018:** Senior high school student, Jiangxi Linchuan No.1 Middle School
 
@@ -15,7 +15,7 @@ layout: homepage
   
 ## News
 - **[April, 2024]** I gave an oral talk on [PhotonIcs and Electromagnetics Research Symposium, 2024](https://cd2024.piers.org/).
-- **[Aug., 2023]** My paper on interfacial Cherenkov radiation from ultralow-energy electrons is published on PNAS.
+- **[Aug., 2023]** My paper on interfacial Cherenkov radiation from ultralow-energy electrons is [published on PNAS](https://www.pnas.org/doi/10.1073/pnas.2306601120).
 - **[Spring, 2023]** I served as a Teaching Assistant for the electromagnetic wave theory class for sophomore students.
 - **[Jan., 2022]** I joined _Maxwell Running Group_ orginized by Prof. Xiao Lin.
 
