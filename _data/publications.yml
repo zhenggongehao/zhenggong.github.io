@@ -9,16 +9,7 @@ main:
     bibtex:
     image: ./assets/img/Brew2.png
     notes: 2025 (In press)
-    
-  - title: Free-electron directional transition radiation from deep-subwavelength anisotropic metamaterials
-    authors: <strong>Zun Wang#</strong>, <strong>Zheng Gong#</strong>, Hongsheng Chen*, and Xiao Lin* (#Contributed Equally, *Corresponding authors)
-    conference_short: Under preparation
-    conference: <strong>Under preparation</strong>
-    pdf: 
-    code:
-    image: ./assets/img/DirectionalTR5.png
-    notes: 2024
-    
+        
   - title: Interfacial Cherenkov radiation from ultralow-energy electrons
     authors: <strong>Zheng Gong</strong>, Jialin Chen, Ruoxi Chen, Xingjian Zhu, Chan Wang, Xinyan Zhang, Hao Hu, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin* (*Corresponding authors)
     conference_short: PNAS
@@ -29,6 +20,33 @@ main:
     image: ./assets/img/interfacialCR.png
     notes: 2023
 
+  - title: Free-electron directional transition radiation from deep-subwavelength anisotropic metamaterials
+    authors: <strong>Zun Wang#</strong>, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xiangfeng Xi, Jialin Chen, Yi Yang, Hongsheng Chen*, Erping Li, Ido Kaminer*, and Xiao Lin* (#Contributed Equally, *Corresponding authors)
+    conference_short: Under review
+    conference: <strong>Under review</strong>
+    pdf: 
+    code:
+    image: ./assets/img/DirectionalTR5.png
+    notes: 2025
+
+  - title: Anomalous Maxwell-Garnett theory for non-magnetic photonic time crystals beyond the long-wavlength limit
+    authors: <strong>Zheng Gong</strong>, Hongsheng Chen*, and Xiao Lin* (*Corresponding authors)
+    conference_short: Under preparation
+    conference: <strong>Under preparation</strong>
+    pdf: 
+    code:
+    image: ./assets/img/anomalousMG.png
+    notes: 2025
+
+  - title: Achromatic interfacial Cherenkov radiation from photonic crystals
+    authors: <strong>Xiangfeng Xi#</strong>, <strong>Zheng Gong#</strong>, Hongsheng Chen*, and Xiao Lin* (*Corresponding authors)
+    conference_short: Under preparation
+    conference: <strong>Under preparation</strong>
+    pdf: 
+    code:
+    image: ./assets/img/Achromatic_interfacialCR.png
+    notes: 2025
+    
   - title: Photonic and plasmonic transition radiation from bilayer graphene
     authors: <strong>Zheng Gong</strong>, Hongxin Zhang*, and Xiao Lin* (*Advisor)
     conference_short: Thesis
