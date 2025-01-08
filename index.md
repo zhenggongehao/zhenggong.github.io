@@ -12,7 +12,10 @@ layout: homepage
 - **Electromagnetic wave theory:** light-matter interactions in photonic (time) crystals, metamaterials and random media
 - **Integrated photonic devices:** light sources, particle detectors, frequency combs
 - **Deep learning in electromagnetics:** inverse design of metamaterials
-  
+
+
+{% include_relative _includes/publications.md %}
+
 ## News
 
 - **[Jan., 2025]** My paper on free-electron resonance transition radiation is [accepted by PNAS]
@@ -20,7 +23,5 @@ layout: homepage
 - **[Aug., 2023]** My paper on interfacial Cherenkov radiation from ultralow-energy electrons is [published on PNAS](https://www.pnas.org/doi/10.1073/pnas.2306601120).
 - **[Spring, 2023]** I served as a Teaching Assistant for the electromagnetic wave theory class for sophomore students.
 - **[Jan., 2022]** I joined _Maxwell Running Group_ orginized by Prof. Xiao Lin.
-
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
