@@ -20,13 +20,13 @@ main:
     image: ./assets/img/interfacialCR.png
     notes: 2023
 
-  - title: Free-electron directional transition radiation from deep-subwavelength anisotropic metamaterials
+  - title: Free-electron Ultra-directional transition radiation from deep-subwavelength anisotropic metamaterials
     authors: <strong>Zun Wang#</strong>, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xiangfeng Xi, Jialin Chen, Yi Yang, Hongsheng Chen*, Erping Li, Ido Kaminer*, and Xiao Lin* (#Contributed Equally, *Corresponding authors)
     conference_short: Under review
     conference: <strong>Under review</strong>
     pdf: 
     code:
-    image: ./assets/img/DirectionalTR5.png
+    image: ./assets/img/DirectionalTR6.png
     notes: 2025
 
   - title: Anomalous Maxwell-Garnett theory for non-magnetic photonic time crystals beyond the long-wavlength limit
