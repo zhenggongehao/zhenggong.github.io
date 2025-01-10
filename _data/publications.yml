@@ -20,7 +20,7 @@ main:
     image: ./assets/img/interfacialCR.png
     notes: 2023
 
-  - title: Free-electron ultra-directional transition radiation from deep-subwavelength anisotropic metamaterials
+  - title: Free-electron ultra-directional transition radiation from deep-subwavelength epsilon-near-zero metamaterials
     authors: <strong>Zun Wang#</strong>, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xiangfeng Xi, Jialin Chen, Yi Yang, Hongsheng Chen*, Erping Li, Ido Kaminer*, and Xiao Lin* (#Contributed Equally, *Corresponding authors)
     conference_short: Under review
     conference: <strong>Under review</strong>
