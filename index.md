@@ -19,7 +19,7 @@ layout: homepage
 ## News
 
 - **[Jan., 2025]** My paper on free-electron resonance transition radiation is [accepted by PNAS]
-- **[April, 2024]** I gave an oral talk on [PhotonIcs and Electromagnetics Research Symposium, 2024](https://cd2024.piers.org/).
+- **[April, 2024]** I gave an oral talk on [PhotonIcs and Electromagnetics Research Symposium, 2024](https://chengdu2024.piers.org/session.html?sid=S113).
 - **[Aug., 2023]** My paper on interfacial Cherenkov radiation from ultralow-energy electrons is [published on PNAS](https://www.pnas.org/doi/10.1073/pnas.2306601120).
 - **[Spring, 2023]** I served as a Teaching Assistant for the electromagnetic wave theory class for sophomore students.
 - **[Jan., 2022]** I joined _Maxwell Running Group_ orginized by Prof. Xiao Lin.
