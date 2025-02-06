@@ -4,11 +4,11 @@ main:
     authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Zun Wang, Xiangfeng Xi, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin* (*Corresponding authors)
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
-    pdf: 
+    pdf: https://www.pnas.org/doi/10.1073/pnas.2413336122
     code: 
     bibtex:
     image: ./assets/img/Brew2.png
-    notes: 2025 (In press)
+    notes: 2025
         
   - title: Interfacial Cherenkov radiation from ultralow-energy electrons
     authors: <strong>Zheng Gong</strong>, Jialin Chen, Ruoxi Chen, Xingjian Zhu, Chan Wang, Xinyan Zhang, Hao Hu, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin* (*Corresponding authors)
@@ -16,7 +16,7 @@ main:
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
     pdf: https://www.pnas.org/doi/10.1073/pnas.2306601120
     code: 
-    bibtex: ./assets/files/interfacialCR.ris
+    bibtex:
     image: ./assets/img/interfacialCR.png
     notes: 2023
 
