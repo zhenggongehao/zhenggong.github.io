@@ -1,7 +1,7 @@
 main:
 
   - title: Free-electron resonance transition radiation via Brewster randomness
-    authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Zun Wang, Xiangfeng Xi, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin* (*Corresponding authors)
+    authors: <strong>Zheng Gong</strong>, Ruoxi Chen, Zun Wang, Xiangfeng Xi, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin*
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
     pdf: https://www.pnas.org/doi/10.1073/pnas.2413336122
@@ -11,7 +11,7 @@ main:
     notes: 2025
         
   - title: Interfacial Cherenkov radiation from ultralow-energy electrons
-    authors: <strong>Zheng Gong</strong>, Jialin Chen, Ruoxi Chen, Xingjian Zhu, Chan Wang, Xinyan Zhang, Hao Hu, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin* (*Corresponding authors)
+    authors: <strong>Zheng Gong</strong>, Jialin Chen, Ruoxi Chen, Xingjian Zhu, Chan Wang, Xinyan Zhang, Hao Hu, Yi Yang, Baile Zhang*, Hongsheng Chen*, Ido Kaminer, and Xiao Lin*
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences of the USA</strong>
     pdf: https://www.pnas.org/doi/10.1073/pnas.2306601120
@@ -21,7 +21,7 @@ main:
     notes: 2023
 
   - title: Ultra-directional transition radiation from deep-subwavelength epsilon-near-zero metamaterials
-    authors: <strong>Zun Wang#</strong>, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xiangfeng Xi, Jialin Chen, Yi Yang, Hongsheng Chen*, Erping Li, Ido Kaminer*, and Xiao Lin* (*Corresponding authors)
+    authors: <strong>Zun Wang#</strong>, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xiangfeng Xi, Jialin Chen, Yi Yang, Hongsheng Chen*, Erping Li, Ido Kaminer*, and Xiao Lin*
     conference_short: Under review
     conference: <strong>Under review</strong>
     pdf: 
@@ -30,7 +30,7 @@ main:
     notes: 2025
 
   - title: Anomalous Maxwell-Garnett theory for photonic time crystals
-    authors: <strong>Zheng Gong</strong>, Hongsheng Chen*, and Xiao Lin* (*Corresponding authors)
+    authors: <strong>Zheng Gong</strong>, Hongsheng Chen*, and Xiao Lin*
     conference_short: Under preparation
     conference: <strong>Under preparation</strong>
     pdf: 
@@ -39,7 +39,7 @@ main:
     notes: 2025
 
   - title: Achromatic interfacial Cherenkov radiation
-    authors: <strong>Xiangfeng Xi#</strong>, <strong>Zheng Gong#</strong>, Hongsheng Chen*, and Xiao Lin* (*Corresponding authors)
+    authors: <strong>Xiangfeng Xi#</strong>, <strong>Zheng Gong#</strong>, Hongsheng Chen*, and Xiao Lin*
     conference_short: Under preparation
     conference: <strong>Under preparation</strong>
     pdf: 
@@ -48,7 +48,7 @@ main:
     notes: 2025
     
   - title: Photonic and plasmonic transition radiation from optically pumped bilayer graphene with gain
-    authors: <strong>Zheng Gong</strong>, Hongxin Zhang*, and Xiao Lin* (*Advisor)
+    authors: <strong>Zheng Gong</strong>, Hongxin Zhang*, and Xiao Lin*
     conference_short: Thesis
     conference: <strong>Excellent bachelor's thesis of Beijing (Top 1%)</strong>
     pdf: 
