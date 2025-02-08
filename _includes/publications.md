@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected first-authored publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">First-authored publications (#Contributed Equally)</h2>
 
 <div class="publications">
 <ol class="bibliography">
