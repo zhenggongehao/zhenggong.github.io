@@ -19,7 +19,17 @@ main:
     bibtex:
     image: ./assets/img/interfacialCR.png
     notes: 2023
-
+    
+  - title: Photonic and plasmonic transition radiation from optically pumped bilayer graphene with gain
+    authors: <strong>Zheng Gong</strong>, Hongxin Zhang*, and Xiao Lin*
+    conference_short: Thesis
+    conference: <strong>Excellent bachelor's thesis of Beijing (Top 1%)</strong>
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/bilayerGraphene2.png
+    notes: 2022
+    
   - title: Ultra-directional transition radiation from deep-subwavelength epsilon-near-zero metamaterials
     authors: Zun Wang#, <strong>Zheng Gong#</strong>, Ruoxi Chen, Xiangfeng Xi, Jialin Chen, Yi Yang, Hongsheng Chen*, Erping Li, Ido Kaminer*, and Xiao Lin*
     conference_short: Under review
@@ -47,12 +57,4 @@ main:
     image: ./assets/img/Achromatic_interfacialCR2.png
     notes: 2025
     
-  - title: Photonic and plasmonic transition radiation from optically pumped bilayer graphene with gain
-    authors: <strong>Zheng Gong</strong>, Hongxin Zhang*, and Xiao Lin*
-    conference_short: Thesis
-    conference: <strong>Excellent bachelor's thesis of Beijing (Top 1%)</strong>
-    pdf: 
-    code: 
-    bibtex: 
-    image: ./assets/img/bilayerGraphene2.png
-    notes: 2022
+
